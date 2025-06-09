@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Job board</div>
+    <div>Authentication form for Job board</div>
   );
 }
