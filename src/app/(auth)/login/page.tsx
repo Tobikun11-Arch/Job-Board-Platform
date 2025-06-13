@@ -15,8 +15,7 @@ export default function Page() {
           <input type="password" id="password" name="password" required
                  className='w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500' />
         </div>
-        <button type="submit"
-            className='w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition duration-200'>Login</button>
+        <button type="submit" className='w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition duration-200'>Login</button>
       </form>
     </div>
   )
