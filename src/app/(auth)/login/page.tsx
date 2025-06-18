@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <div className='min-h-screen bg-white flex justify-center text-black items-center'>
       <form action="" className='w-full max-w-md p-6 bg-gray-100 rounded-lg shadow-md'>
-        <h1 className='text-2xl font-bold mb-6 text-center'>Login</h1>
+        <h1 className='text-2xl font-bold mb-6 text-center'>Login area</h1>
         <div className='mb-4'>
           <label htmlFor="email" className='block text-sm font-medium mb-2'>Email</label>
           <input type="email" id="email" name="email" required
