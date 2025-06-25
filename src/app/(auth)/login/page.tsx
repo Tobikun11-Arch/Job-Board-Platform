@@ -11,7 +11,7 @@ export default function Page() {
                  className='w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500' />
         </div>
         <div className='mb-6'>
-          <label htmlFor="password" className='block text-sm font-medium mb-2'>Password</label>
+          <label htmlFor="password" className='block text-sm font-medium mb-2'>Passwords</label>
           <input type="password" id="password" name="password" required
                  className='w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500' />
         </div>
