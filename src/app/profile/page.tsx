@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';  
 import {UserProfileForm} from '@/components/features/profile/UserProfileForm';
 
 export default function ProfilePage() {
