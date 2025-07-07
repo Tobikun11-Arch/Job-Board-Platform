@@ -18,7 +18,7 @@ import Link from 'next/link';
 import {Eye, EyeOff} from 'lucide-react';
 
 const loginSchema = z.object({
-  email: z.string().email({message: 'Invalid email address'}),
+  email: z.string().email({message: 'Invalid email addresss'}),
   password: z
     .string()
     .min(6, {message: 'Password must be at least 6 characters'})
